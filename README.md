@@ -59,5 +59,5 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 
 ## 订阅 email
-* <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
+* <a href="https://feedburner.google.com/fb/a/mailverify?uri=bannedbook/DEZI&loc=zh_CN">中国禁闻-中南海高层内幕</a>
     
